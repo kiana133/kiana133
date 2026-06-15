@@ -15,7 +15,7 @@ than I do.
   town I call home.
 - ✍️ **Working on**: Agentic developer tooling (Jira intake pipelines, autonomous ticket-execution workflows, multi-agent orchestration)
 - ✈️ **Fun fact**: I love to travel! I've had the best time of my life in over 17 countries spanning 4 continents... Next on the list is somewhere in South America. I to travel for the food, connecting with locals and learning about their history, and great views.
-- 👯 Pronouns: She/Her
+- 👯 **Pronouns**: She/Her
 - 📫 **How to reach me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/kiana-assenheimer)
 
 ## 🧠 My Skills 
