@@ -9,12 +9,11 @@ learning new things as I go, and creating alongside people who see the work diff
 than I do.
 
 - 🧠 **My 9-5**: Weaving together product taste, technical depth, teaching, and community building
-- ⚡ **My 5-9**: I'm a generalist at heart, so this covers a lot —
-  renovating our house with my fiancé, reading my way through the classics this summer, another attempt
-  at Spanish, my Level 2 Sommelier certification, and learning to ski in the mountain
+- ⚡ **My 5-9**: I'm a generalist at heart, so this covers a lot — in my spare time you can find me renovating my house with my fiancé, reading my way through the classics this summer, attempting (again) to
+learn Spanish, working towards my Level 2 Sommelier certification, or learning to ski in the mountain
   town I call home.
-- ✍️ **Working on**: Agentic developer tooling (Jira intake pipelines, autonomous ticket-execution workflows, multi-agent orchestration)
-- ✈️ **Fun fact**: I love to travel! I've had the best time of my life in over 17 countries spanning 4 continents... Next on the list is somewhere in South America. I to travel for the food, connecting with locals and learning about their history, and great views.
+- ✍️ **Working on**: Agentic developer tooling, building in public
+- ✈️ **Fun fact**: I love to travel! I've travelled to over 17 countries spanning 4 continents (and had the time of my life doing so!)... Next on the list is somewhere in South America. I travel for the food, connecting with locals and learning about their history, and great sunset viewpoints.
 - 👯 **Pronouns**: She/Her
 - 📫 **How to reach me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/kiana-assenheimer)
 
